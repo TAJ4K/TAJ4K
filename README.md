@@ -5,7 +5,7 @@ I do code thing yes!
 Currently very fluent in NodeJS and Golang
 Decent amount of experience in C# and Python
 
-##Workplace
+## Workplace
 Currently working with https://github.com/pineapplesnkrs on Jolt Account Tool (80% JS, 20% Go)
 Also helping with @AvynBots on their JS captcha harvester
 
