@@ -4,6 +4,7 @@ I do code thing yes!
 ## Languages
 Currently very fluent in NodeJS and Golang
 Decent amount of experience in C# and Python
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAJ4K&theme=tokyonight)
 (This is only public repos)
 
