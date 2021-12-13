@@ -13,6 +13,4 @@ Decent amount of experience in C# and Python
 ## Workplace
 Currently working with [pineapple](https://github.com/pineapplesnkrs) on Jolt Account Tool (70% JS, 30% Go)
 
-Also helping with @AvynBots on their JS captcha harvester
-
 
