@@ -16,5 +16,4 @@ Currently working with [pineapple](https://github.com/pineapplesnkrs) on Jolt Ac
 ## Contact
 Need to message me for something? 
 [Email](mailto:kobe@joltindustries.fish)
-[Twitter](https://twitter.com/TAJ4K)
 [LinkedIn](https://www.linkedin.com/in/jolt)
