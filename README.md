@@ -1,10 +1,10 @@
-# Hello
-I do code thing yes!
+# Hey 👋
+I'm a software developer based in Seattle, WA & Waltham, MA
 
 ## Languages
-Currently very fluent in NodeJS and Golang
+Very fluent in Node.JS and Go
 
-Decent amount of experience in C# and Python
+Also experienced with C#, Python, HTML, CSS, and Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAJ4K&theme=tokyonight)
 
@@ -13,4 +13,8 @@ Decent amount of experience in C# and Python
 ## Workplace
 Currently working with [pineapple](https://github.com/pineapplesnkrs) on Jolt Account Tool (70% JS, 30% Go)
 
-
+## Contact
+Need to message me for something? 
+[email](mailto:kobe@joltindustries.fish)
+[twitter](https://twitter.com/TAJ4K)
+[linkedin](https://www.linkedin.com/in/jolt)
