@@ -2,9 +2,9 @@
 I'm a software developer based in Seattle, WA & Waltham, MA
 
 ## Languages
-Very fluent in Node.JS and Go
+Very fluent in JS and Go
 
-Also experienced with C#, Python, HTML, CSS, and Git
+Also experienced with C#, Python, HTML, TS, CSS, and Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAJ4K&theme=tokyonight)
 
