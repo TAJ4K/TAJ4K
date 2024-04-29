@@ -1,5 +1,5 @@
 # Hey 👋
-I'm a software developer based in Seattle, WA & Waltham, MA
+I'm a economics PhD student at the University of Washington.
 
 ## Languages
 Very fluent in JS/TS, Py, Go, R, and STATA 
